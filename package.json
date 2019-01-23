@@ -1,0 +1,12 @@
+{
+  "name": "time-counter-bot",
+  "version": "1.0.0",
+  "description": "Time Counter Discord bot",
+  "main": "timecounter.js",
+  "author": "Victor Martin <victormartincamarero@gmail.com>",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.io": "^2.5.3",
+    "winston": "^3.1.0"
+  }
+}
